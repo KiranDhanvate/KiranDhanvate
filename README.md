@@ -85,11 +85,6 @@ A robust healthcare system backend with secure APIs for Electronic Health Record
 - **Tech**: Node.js, Express, MongoDB, JWT authentication
 - **Features**: HIPAA-compliant data handling, role-based access control, encryption
 
-### [On-Device ML for Mobile](https://github.com/Kiran-Dhanvate/TFLite-MobileAI)
-A framework for deploying optimized machine learning models on mobile devices.
-- **Tech**: TensorFlow Lite, Kotlin, Swift, Python
-- **Features**: Model compression techniques, battery-efficient inference, offline capabilities
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -113,7 +108,7 @@ A framework for deploying optimized machine learning models on mobile devices.
 - 🔭 I'm currently exploring **generative AI for healthcare applications**
 - 🌱 I'm learning **graph neural networks** for complex relationship modeling
 - 💬 Ask me about **optimizing ML models for production environments**
-- 🎮 When not coding, I enjoy **hiking and experimenting with new tech gadgets**
+- 🎮 
 
 ---
 
