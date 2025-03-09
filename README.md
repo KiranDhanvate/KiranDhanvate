@@ -108,7 +108,6 @@ A robust healthcare system backend with secure APIs for Electronic Health Record
 - 🔭 I'm currently exploring **generative AI for healthcare applications**
 - 🌱 I'm learning **graph neural networks** for complex relationship modeling
 - 💬 Ask me about **optimizing ML models for production environments**
-- 
 ---
 
 <div align="center">
