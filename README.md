@@ -88,8 +88,8 @@ A robust healthcare system backend with secure APIs for Electronic Health Record
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kiran-Dhanvate&show_icons=true&theme=radical" alt="Kiran's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiran-Dhanvate&theme=radical" alt="Kiran's GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranDhanvate&show_icons=true&theme=radical" alt="Kiran's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiranDhanvate&theme=radical" alt="Kiran's GitHub streak" />
 </div>
 
 ## 📫 Connect With Me
